@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/Mythizm/mythizm/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Mythizm/mythizm/blob/output/snake.svg)
