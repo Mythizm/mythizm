@@ -1,4 +1,3 @@
-<p align="center"><img width="80%" alt="Hi, I'm Erhan. I do open source!" src="./assets/gh-readme-header.png" /></p>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
